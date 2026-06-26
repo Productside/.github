@@ -1,0 +1,26 @@
+name: Feature request
+description: Propose an improvement, capability, or useful addition.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: Start with the job to be done, not the implementation.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What do you want to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Examples, constraints, prior attempts, or anything that would help.
+    validations:
+      required: false
