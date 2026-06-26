@@ -62,7 +62,7 @@ New to Productside?
 
 - [productside.com](https://productside.com/) — the full picture
 - [About Productside](https://productside.com/about/) — who we are and where we came from
-- [productside-resources](https://github.com/Productside/productside-resources) — our curated catalog of public resources, right here on GitHub
+- [Productside-Resources](https://github.com/Productside/Productside-Resources) — our curated catalog of public resources, right here on GitHub
 
 New to this GitHub organization?
 
@@ -74,9 +74,9 @@ New to this GitHub organization?
 
 ## Current focus
 
-This organization is still being shaped deliberately. Some repositories may be private, in progress, or being cleaned up before public release.
+Productside publishes deliberately — not everything, and not before it is ready. Some repositories are private or in progress.
 
-When Productside publishes something here, the goal is for it to be useful enough that a real product team can learn from it, adapt it, or put it to work.
+When something is published here, the goal is for it to be useful enough that a real product team can learn from it, adapt it, or put it to work.
 
 ---
 
