@@ -32,9 +32,13 @@ Thanks for your interest in contributing.
 - do not include transcripts, call notes, or raw conversation records
 - use synthetic or anonymized data in any examples — never real customer or participant data
 
+For Productside's data handling practices, see our [Privacy Policy](https://productside.com/privacy-policy/).
+
 ## Ownership and attribution
 
 - only contribute material you have the right to contribute
 - respect third-party licenses and attribution requirements
 - preserve copyright notices and required license text
 - if you adapt outside material, say where it came from and under what license
+
+Contributions are subject to Productside's [Terms & Conditions](https://productside.com/terms-conditions/).

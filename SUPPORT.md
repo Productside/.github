@@ -20,3 +20,7 @@ Support expectations vary by repository.
 - what happened instead
 - the exact error message
 - the environment or setup details that matter
+
+## Privacy and terms
+
+Support requests and related communications are handled in accordance with Productside's [Privacy Policy](https://productside.com/privacy-policy/). Use of Productside repositories and services is subject to our [Terms & Conditions](https://productside.com/terms-conditions/).

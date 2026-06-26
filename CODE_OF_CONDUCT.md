@@ -24,3 +24,7 @@ If you experience or witness behavior that does not belong here, contact: `suppo
 ## Enforcement
 
 The organization owners and maintainers may remove comments, close discussions, or restrict participation when needed to protect the health of the community.
+
+## Legal
+
+Participation in Productside repositories is subject to Productside's [Terms & Conditions](https://productside.com/terms-conditions/). Reports submitted under this Code of Conduct are handled in accordance with our [Privacy Policy](https://productside.com/privacy-policy/).
