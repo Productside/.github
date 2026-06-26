@@ -29,6 +29,8 @@ Thanks for your interest in contributing.
 - do not commit secrets, tokens, or credentials
 - sanitize examples that could expose client or confidential information
 - use environment variables for configuration secrets
+- do not include transcripts, call notes, or raw conversation records
+- use synthetic or anonymized data in any examples — never real customer or participant data
 
 ## Ownership and attribution
 

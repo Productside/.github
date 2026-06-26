@@ -21,3 +21,7 @@ Please include:
 ## Response expectations
 
 We will review the report, assess impact, and respond as quickly as practical.
+
+## Privacy and data handling
+
+For questions about how Productside handles personal data, see our [Privacy Policy](https://productside.com/privacy-policy/).
