@@ -13,7 +13,7 @@ Thanks for your interest in contributing.
 
 - clear writing
 - practical usefulness
-- readable code
+- well-organized digital leave-behinds
 - honest documentation
 - examples that teach
 

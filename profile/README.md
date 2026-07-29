@@ -68,7 +68,7 @@ New to this GitHub organization?
 
 - look at the pinned repositories for the best starting points
 - read each repo README for scope, intended audience, and usage limits
-- check `CONTRIBUTING.md`, `SECURITY.md`, and the license before reusing or contributing
+- check [`LEGAL.md`](https://github.com/Productside/.github/blob/main/LEGAL.md) for licensing, privacy, and terms before reusing or contributing
 
 ---
 
