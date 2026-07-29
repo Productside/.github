@@ -24,7 +24,7 @@ We would rather tell you we review weekly and keep to it than promise 24 hours a
 - **GitHub issues** — factual problems: a broken link, a typo, an instruction that does not work, a missing file
 - **GitHub discussions**, where enabled — broader questions about how to use something
 - **[productside.com/contact](https://productside.com/contact/)** — anything commercial: training, consulting, advisory, partnership, or licensing
-- **`support@productside.com`** — if email is genuinely easier for you
+- **`github@productside.com`** — if email is genuinely easier for you
 
 ## If you are a Productside client or a course participant
 

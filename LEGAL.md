@@ -44,6 +44,6 @@ They are provided as is, as instructional material, and not as a software produc
 
 ## Questions
 
-For legal, privacy, licensing, or trademark questions: `support@productside.com`
+For legal, privacy, licensing, or trademark questions: `github@productside.com`
 
 For a suspected security issue, follow [`SECURITY.md`](SECURITY.md) and do not open a public issue.

@@ -4,7 +4,7 @@ If you believe you have found a security issue in a Productside repository, plea
 
 ## How to report
 
-Email: `support@productside.com`
+Email: `github@productside.com`
 
 Please include:
 
