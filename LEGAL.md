@@ -34,7 +34,7 @@ Nothing in this repository modifies a signed agreement.
 
 If you are a Productside client, or a named participant in a Productside class, workshop, or webinar, your rights in Productside materials are governed by **your signed agreement**, not by the repository license. Those agreements may grant broader internal-use rights than the public license does, and for training materials provided to named participants they may grant narrower sharing rights.
 
-Where a signed agreement and a repository license differ, the signed agreement controls the relationship it covers.
+Master Service Agreements and Statements of Work take precedence over anything published here on GitHub.
 
 ## What these materials are
 
@@ -44,6 +44,6 @@ They are provided as is, as instructional material, and not as a software produc
 
 ## Questions
 
-For legal, privacy, licensing, or trademark questions: `github@productside.com`
+For legal, privacy, licensing, or trademark questions: `support@productside.com`
 
 For a suspected security issue, follow [`SECURITY.md`](SECURITY.md) and do not open a public issue.
