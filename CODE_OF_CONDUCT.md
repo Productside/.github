@@ -19,7 +19,7 @@ This applies in issues, pull requests, discussions, and other project spaces man
 
 ## Reporting
 
-If you experience or witness behavior that does not belong here, contact: `github@productside.com`
+If you experience or witness behavior that does not belong here, contact: `support@productside.com`
 
 ## Enforcement
 
